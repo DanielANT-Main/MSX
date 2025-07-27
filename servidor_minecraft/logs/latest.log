@@ -1853,3 +1853,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [27Jul2025 22:36:34.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tienes plumas?
 [27Jul2025 22:36:48.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> nop
 [27Jul2025 22:36:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> -774 - 19 - 97
+[27Jul2025 22:44:29.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> tan lejos estas?
+[27Jul2025 22:44:31.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[27Jul2025 22:44:33.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> xd
+[27Jul2025 22:45:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> toy a 100 bloques
+[27Jul2025 22:48:41.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-683, y=56, z=-330} BlockPos{x=-683, y=57, z=-330}
+[27Jul2025 22:48:45.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=59, z=-321} BlockPos{x=-685, y=58, z=-322}
+[27Jul2025 22:50:09.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-950, y=56, z=-366} BlockPos{x=-950, y=55, z=-366}
+[27Jul2025 22:52:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ahora me espera un rato
+[27Jul2025 22:52:11.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[27Jul2025 22:52:16.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 lost connection: Disconnected
+[27Jul2025 22:52:16.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 left the game
+[27Jul2025 22:52:16.141] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 1ee15707-1b35-30c0-b9ce-423f6b9cef06 was unloaded
+[27Jul2025 22:57:28.281] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3139ms or 62 ticks

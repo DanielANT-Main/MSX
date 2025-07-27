@@ -1829,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-27 22:47:23 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2025-07-27 18:54:05 +0000"
@@ -1976,6 +1982,12 @@
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-07-27 19:59:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-07-27 22:47:23 +0000"
     },
     "done": true
   },
@@ -3153,7 +3165,8 @@
     "criteria": {
       "cooked_porkchop": "2025-07-27 18:45:41 +0000",
       "beef": "2025-07-27 19:03:38 +0000",
-      "bread": "2025-07-27 19:43:15 +0000"
+      "bread": "2025-07-27 19:43:15 +0000",
+      "rotten_flesh": "2025-07-27 22:38:43 +0000"
     },
     "done": false
   },
@@ -3178,6 +3191,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-27 21:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-27 22:47:23 +0000"
     },
     "done": true
   },
