@@ -487,15 +487,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-27 21:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-07-27 20:20:00 +0000"
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-27 21:30:41 +0000"
+    },
+    "done": false
+  },
   "tetra:upgrades/tool_upgrade": {
     "criteria": {
       "axe": "2025-07-27 18:37:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-27 21:30:35 +0000"
     },
     "done": true
   },
@@ -604,6 +622,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-07-27 20:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-27 21:35:16 +0000"
     },
     "done": true
   },
@@ -757,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-27 21:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-27 21:03:47 +0000"
@@ -800,6 +830,7 @@
       "minecraft:vindicator": "2025-07-27 18:46:45 +0000",
       "minecraft:spider": "2025-07-27 19:15:55 +0000",
       "minecraft:witch": "2025-07-27 21:14:00 +0000",
+      "minecraft:cave_spider": "2025-07-27 21:17:59 +0000",
       "minecraft:zombie": "2025-07-27 19:32:51 +0000",
       "minecraft:drowned": "2025-07-27 18:47:43 +0000"
     },
@@ -934,6 +965,12 @@
   "immersive_weathering:recipes/iron_ingot": {
     "criteria": {
       "has_copper_block": "2025-07-27 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-27 21:34:51 +0000"
     },
     "done": true
   },
@@ -1090,6 +1127,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-07-27 21:25:57 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-07-27 18:32:36 +0000"
@@ -1105,6 +1148,12 @@
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-27 20:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-27 21:35:16 +0000"
     },
     "done": true
   },
@@ -1201,6 +1250,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 18:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-27 21:35:16 +0000"
     },
     "done": true
   },
@@ -1393,6 +1448,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-27 19:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-27 21:35:26 +0000"
     },
     "done": true
   },
@@ -1744,9 +1805,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-27 21:25:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-07-27 20:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-27 21:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-27 21:36:16 +0000"
     },
     "done": true
   },
@@ -1864,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-27 21:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-27 20:04:51 +0000"
@@ -1873,6 +1958,12 @@
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-07-27 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-27 21:35:26 +0000"
     },
     "done": true
   },
@@ -2035,6 +2126,12 @@
   "tetra:upgrades/root": {
     "criteria": {
       "hammer": "2025-07-27 19:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-27 21:34:51 +0000"
     },
     "done": true
   },
@@ -2380,6 +2477,12 @@
     },
     "done": false
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-27 21:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-27 21:03:47 +0000"
@@ -2584,6 +2687,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-27 21:31:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-07-27 18:32:36 +0000"
@@ -2643,6 +2752,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-07-27 19:27:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-27 21:25:59 +0000"
     },
     "done": true
   },

@@ -1772,3 +1772,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [27Jul2025 21:17:05.126] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
 [27Jul2025 21:17:05.126] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
 [27Jul2025 21:17:05.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebastian_FMD moved too quickly! -524.8000000119209,0.0,-1146.9169035710192
+[27Jul2025 21:19:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Daniel_ANT_25: Teleported Daniel_ANT_25 to -753.500000, 62.000000, 190.500000]
+[27Jul2025 21:19:12.469] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[27Jul2025 21:19:12.470] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[27Jul2025 21:19:12.471] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[27Jul2025 21:19:12.471] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[27Jul2025 21:19:12.472] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[27Jul2025 21:19:12.473] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[27Jul2025 21:19:12.474] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[27Jul2025 21:19:12.475] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class se.mickelus.tetra.blocks.multischematic.MultiblockSchematicBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[27Jul2025 21:19:13.381] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[27Jul2025 21:19:13.381] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[27Jul2025 21:19:13.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved too quickly! -902.0243215012865,6.455185944466933,186.37538034103082
+[27Jul2025 21:19:13.403] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3734ms or 74 ticks
+[27Jul2025 21:19:13.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[27Jul2025 21:19:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebastian_FMD: Teleported Sebastian_FMD to -753.500000, 61.000000, 192.500000]
+[27Jul2025 21:19:25.231] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 21:19:25.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 21:19:25.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebastian_FMD moved too quickly! -908.9887540934649,8.0,182.01943961931912
+[27Jul2025 21:19:53.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebastian_FMD: Teleported Sebastian_FMD to 664.500000, 55.000000, 1144.500000]
+[27Jul2025 21:19:54.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 21:19:54.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 21:19:54.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebastian_FMD moved too quickly! 1418.199999988079,-6.0,953.2159163160386
+[27Jul2025 21:20:03.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebastian_FMD: Teleported Sebastian_FMD to -753.500000, 61.000000, 191.500000]
+[27Jul2025 21:20:09.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 21:20:09.311] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 21:20:09.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebastian_FMD moved too quickly! -1417.069257059779,6.0,-946.9341094710032
+[27Jul2025 21:20:09.323] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 8377ms or 167 ticks
+[27Jul2025 21:20:09.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5839ms or 116 ticks behind
+[27Jul2025 21:30:35.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Incendium]
+[27Jul2025 21:30:35.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [We Need to Go Deeper]
+[27Jul2025 21:30:41.045] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 21:30:41.045] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 21:30:41.069] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 21:30:41.070] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 21:30:41.084] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 10679ms or 213 ticks
+[27Jul2025 21:30:41.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9951ms or 199 ticks behind
+[27Jul2025 21:30:43.949] [Worker-Main-1/WARN] [com.finndog.mns.MNSCommon/]: Moog's Nether Structures: Empty or nonexistent pool: mns:houses/warped_pool/side_pool which is being called from mns:warped_pool
+[27Jul2025 21:30:49.931] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39658, l='ServerLevel[world]', x=-3.00, y=31.00, z=107.00] as it would cause deadlock
+[27Jul2025 21:30:49.931] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39661, l='ServerLevel[world]', x=-10.00, y=31.00, z=100.00] as it would cause deadlock
+[27Jul2025 21:31:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Chest Slayer]
+[27Jul2025 21:31:11.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Amateur Archaeologist]
+[27Jul2025 21:31:39.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Those Were the Days]
+[27Jul2025 21:32:09.077] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 21:32:09.077] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 21:34:58.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Getting Another Upgrade]
+[27Jul2025 21:36:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Ice Bucket Challenge]
+[27Jul2025 21:36:16.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Isn't It Iron Pick]
+[27Jul2025 21:37:10.890] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[27Jul2025 21:37:10.891] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[27Jul2025 21:37:13.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 tried to swim in lava
+[27Jul2025 21:37:13.393] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[27Jul2025 21:37:14.583] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Jul2025 21:37:14.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[27Jul2025 21:37:14.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
