@@ -11555,3 +11555,306 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [27Jul2025 19:37:32.832] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9f99a085-a908-41a5-a195-36e5dcae84fb)
 [27Jul2025 19:37:32.833] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5e7914c4-5383-4bd5-8b97-255bca4045e6)
 [27Jul2025 19:37:32.833] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (5e7914c4-5383-4bd5-8b97-255bca4045e6)
+[27Jul2025 19:37:37.913] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5e7914c4-5383-4bd5-8b97-255bca4045e6)
+[27Jul2025 19:37:37.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Hammer III (Iron)]
+[27Jul2025 19:37:37.915] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:37:37.915] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:37:37.941] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/hammer_4)
+[27Jul2025 19:37:37.941] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/hammer_5)
+[27Jul2025 19:37:40.991] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:37:47.871] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:37:47.872] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/blade:blade/tempered":1,"sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[27Jul2025 19:37:47.873] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:0,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[27Jul2025 19:37:47.873] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/blade:blade/tempered":1,"sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[27Jul2025 19:37:47.874] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:0,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/blade:blade/tempered":1,"sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[27Jul2025 19:37:47.874] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (108598c3-ccf2-4b61-9955-0ab80464349b)
+[27Jul2025 19:37:47.874] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (108598c3-ccf2-4b61-9955-0ab80464349b)
+[27Jul2025 19:38:27.126] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (108598c3-ccf2-4b61-9955-0ab80464349b)
+[27Jul2025 19:38:27.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Tightly Wrought]
+[27Jul2025 19:38:27.127] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (908572db-3037-43cd-9639-1aee895526a1)
+[27Jul2025 19:38:27.127] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (908572db-3037-43cd-9639-1aee895526a1)
+[27Jul2025 19:38:41.403] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[27Jul2025 19:39:08.481] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (908572db-3037-43cd-9639-1aee895526a1)
+[27Jul2025 19:39:08.482] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[27Jul2025 19:39:08.482] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (a4b0ed2c-f611-4c3a-a7d5-8b57af91d929)
+[27Jul2025 19:39:08.483] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (a4b0ed2c-f611-4c3a-a7d5-8b57af91d929)
+[27Jul2025 19:39:36.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (a4b0ed2c-f611-4c3a-a7d5-8b57af91d929)
+[27Jul2025 19:39:36.796] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b583ccef-1bd4-4651-b3ac-82292d29e87b)
+[27Jul2025 19:39:36.796] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (b583ccef-1bd4-4651-b3ac-82292d29e87b)
+[27Jul2025 19:40:40.209] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b583ccef-1bd4-4651-b3ac-82292d29e87b)
+[27Jul2025 19:40:40.209] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:40:40.210] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:40:44.192] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:40:44.193] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:40:44.592] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:40:44.592] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:40:49.192] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:40:53.443] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[27Jul2025 19:41:19.843] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[27Jul2025 19:41:19.844] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[27Jul2025 19:41:59.799] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:41:59.802] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[27Jul2025 19:42:01.941] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:42:01.941] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:42:01.942] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[27Jul2025 19:42:01.942] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[27Jul2025 19:42:01.942] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9f99a085-a908-41a5-a195-36e5dcae84fb)
+[27Jul2025 19:42:05.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 19:42:05.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 19:42:09.191] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[27Jul2025 19:42:39.734] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:42:39.793] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:43:30.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Knowledge of Death]
+[27Jul2025 19:43:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Ashes 'n Bones]
+[27Jul2025 19:43:40.494] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:43:49.750] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[27Jul2025 19:43:54.117] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:frigate_medium_start is being run through DFU (hash c27b7528314f8a8a25c6c235de7ece472ee47a153f9d5566d0bdd6445a4e3f73), this will cause launch time delays
+[27Jul2025 19:43:54.828] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:frigate_medium_end is being run through DFU (hash 773e539f6cbabb74b5460d651c876c4d59728e46899ff94ebec986fb0c76b12d), this will cause launch time delays
+[27Jul2025 19:43:54.889] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:skeleton_axe is being run through DFU (hash 19f27cc074b88639ea22a97deb20084348726825e0ed1caebe178b595888de94), this will cause launch time delays
+[27Jul2025 19:43:54.901] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:pillager_cac is being run through DFU (hash 75ec0752cb0432b1362160376f2eed9f2d61ca6aa927597735ca4fa461b3e9e3), this will cause launch time delays
+[27Jul2025 19:43:54.909] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:skeleton_bow is being run through DFU (hash 5c020a4f5e1c94b0015f7efdf16a0e49e4a5bb8a9a4627d95d93e9e90d2c930e), this will cause launch time delays
+[27Jul2025 19:43:58.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [This Must be a Sign!]
+[27Jul2025 19:44:19.793] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:44:31.293] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:44:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Not Today, Thank You]
+[27Jul2025 19:45:40.234] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:45:40.292] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:45:50.344] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:45:54.692] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:45:54.692] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:45:54.741] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:45:54.791] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:46:08.696] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[27Jul2025 19:46:08.696] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[27Jul2025 19:46:25.882] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[27Jul2025 19:46:25.882] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 19:47:05.068] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[27Jul2025 19:47:05.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 19:47:05.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 19:47:10.992] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[27Jul2025 19:47:18.734] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:47:18.746] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[27Jul2025 19:47:38.904] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[27Jul2025 19:47:38.989] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/main_piece is being run through DFU (hash 81506d7ca4b91ad53d2358806580cf6b1288c08be6d5ea82b62a67760e35dcac), this will cause launch time delays
+[27Jul2025 19:47:39.101] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/tower3 is being run through DFU (hash cea3810c99c68ca7074464b61cc214cea902ab2593eb9bd4304f5059a7584790), this will cause launch time delays
+[27Jul2025 19:47:39.131] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/circle_small is being run through DFU (hash d0690b6ecfe2bcc0864d318c005dd5f900804655e07f7786bd1560400f83462d), this will cause launch time delays
+[27Jul2025 19:47:39.938] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[27Jul2025 19:47:41.434] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:47:41.511] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:47:43.816] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[27Jul2025 19:47:43.816] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[27Jul2025 19:47:43.816] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9f99a085-a908-41a5-a195-36e5dcae84fb)
+[27Jul2025 19:47:43.816] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:47:49.695] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:47:57.147] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 19:48:10.921] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:48:19.921] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[27Jul2025 19:48:19.921] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[27Jul2025 19:48:19.922] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[27Jul2025 19:48:19.922] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[27Jul2025 19:48:19.922] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (9f99a085-a908-41a5-a195-36e5dcae84fb)
+[27Jul2025 19:48:19.923] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fe607f99-07fe-4971-b123-28eec6d3958a)
+[27Jul2025 19:48:19.923] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:48:19.924] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:48:22.492] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:48:27.244] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:48:42.898] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Jul2025 19:48:45.849] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[27Jul2025 19:49:38.905] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/intersection_6 is being run through DFU (hash d9bb3bf3b1be96bb14720d79c36911a8617d3a4b2df395fd5879e5071d04d820), this will cause launch time delays
+[27Jul2025 19:49:38.979] [Worker-Main-2/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/extractor_platform_large is being run through DFU (hash 370bf197ff93f26bfaee4854a60483e13e9609566b70a83148f9522e2c90517d), this will cause launch time delays
+[27Jul2025 19:50:04.568] [Worker-Main-1/DEBUG] [ModernFix/]: Structure aquamirae:lore/shelter/tunnel_top is being run through DFU (hash 484eb51b71f183df4e8682103e43451fdd642b567f9e1ee2ec047fa2f36954ee), this will cause launch time delays
+[27Jul2025 19:50:04.736] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[27Jul2025 19:50:08.845] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:50:46.204] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:50:50.802] [Server thread/DEBUG] [ModernFix/]: Structure joshie:village/ocean/centers/center is being run through DFU (hash d51fd406424b3efcf97a7a884af816b08d3e032eb2a4463c2276a3f746c54146), this will cause launch time delays
+[27Jul2025 19:51:49.593] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:51:49.594] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:51:49.743] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:51:49.744] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:51:50.347] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:52:05.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 19:52:05.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 19:52:05.197] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3069ms or 61 ticks
+[27Jul2025 19:52:12.586] [Worker-Main-3/DEBUG] [ModernFix/]: Structure aquamirae:lore/outpost is being run through DFU (hash 9ad6a404df2298a3f11c688bbbb4e4e9ef9497d26b6c7f4f36738babc1580429), this will cause launch time delays
+[27Jul2025 19:52:16.609] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[27Jul2025 19:52:18.744] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:52:31.800] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[27Jul2025 19:52:31.800] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[27Jul2025 19:52:44.580] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[27Jul2025 19:52:44.581] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 19:53:20.097] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:53:25.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 19:53:36.426] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jul2025 19:53:37.834] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:53:37.846] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:53:37.897] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:54:09.581] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:54:28.347] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pond1 is being run through DFU (hash 6a2dbffb06fc76ec845da81db8e757ac0e1c618bfade3acb67bcc83aef9830ee), this will cause launch time delays
+[27Jul2025 19:54:32.954] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mossy_ruin/main is being run through DFU (hash 5756eba6d66e376554e7cde213a1b31ade0cbb63ae974a94e3cf9177cd9ac78e), this will cause launch time delays
+[27Jul2025 19:54:32.995] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/copper_house1 is being run through DFU (hash fed06bd7a85d00adad4f751fbe8d6b9139c446e303473274c869878db18eb991), this will cause launch time delays
+[27Jul2025 19:54:33.015] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/top is being run through DFU (hash d9c00df651a9b021aa6ac1d31f47829c424db9b97513acab75bb8ea4afa18f29), this will cause launch time delays
+[27Jul2025 19:54:33.028] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/bottom is being run through DFU (hash 97b1362524df31daf2c9d4d3d217e7450138ef51b084f315d0da48e9e923770f), this will cause launch time delays
+[27Jul2025 19:55:29.567] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[27Jul2025 19:55:40.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[27Jul2025 19:56:00.612] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:decoration/jungle_well is being run through DFU (hash 89dfa852deb42193187e09b5f3c589323d8a61902a3e6007be9c721bfa22d2d5), this will cause launch time delays
+[27Jul2025 19:56:13.584] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:57:05.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 19:57:05.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 19:57:18.098] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[27Jul2025 19:57:19.445] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:57:19.445] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 19:57:19.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [A Strange Grave Dust]
+[27Jul2025 19:57:31.334] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:57:31.344] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:57:31.394] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:57:58.146] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[27Jul2025 19:58:04.007] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[27Jul2025 19:58:04.754] [Server thread/WARN] [tombstone/]: The death event of the player Sebastian_FMD was canceled by another mod
+[27Jul2025 19:58:04.758] [Server thread/INFO] [tombstone/]: The player Sebastian_FMD has successfully been saved
+[27Jul2025 19:58:09.501] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 19:58:09.501] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[27Jul2025 19:58:09.501] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[27Jul2025 19:58:09.501] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9f99a085-a908-41a5-a195-36e5dcae84fb)
+[27Jul2025 19:58:38.549] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:58:50.245] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:58:50.294] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:58:50.927] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 19:58:53.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has reached the goal [Strong or Careful]
+[27Jul2025 19:58:53.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD was slain by Zombie
+[27Jul2025 19:58:53.724] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebastian_FMD was created at position [x:-503, y:64, z:291, dim:minecraft:overworld]
+[27Jul2025 19:58:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Your First Grave]
+[27Jul2025 19:58:55.705] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Jul2025 19:58:55.900] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 19:58:55.900] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 19:59:20.268] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 19:59:30.321] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 19:59:42.749] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[27Jul2025 20:01:03.602] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[27Jul2025 20:01:09.203] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[27Jul2025 20:01:15.704] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/arch1 is being run through DFU (hash c8d4edbb5a7385f36c1206449934c33b87ff78db315e45a79bace75f06f97b93), this will cause launch time delays
+[27Jul2025 20:01:15.765] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/circle_tall is being run through DFU (hash 88a7a1210eaf5551f7111dfad9b78f468974aa21bd2fcd94af9b887aaae121e9), this will cause launch time delays
+[27Jul2025 20:01:15.775] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/connector3 is being run through DFU (hash 9049d197d461ac7ba29b7f2a4bb1a74279d2cd5c47f47f64c0ec97a3e18bafb7), this will cause launch time delays
+[27Jul2025 20:01:15.783] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/connector1 is being run through DFU (hash 0d6e1d457d39caade7bcfc9c1559065541d95739d84de56830a0ab15d7dbe31a), this will cause launch time delays
+[27Jul2025 20:01:15.792] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/connector5 is being run through DFU (hash 726083d169d5abf28a53217517cf3ad39aa667c8d19060acd3cdf943b9cff93a), this will cause launch time delays
+[27Jul2025 20:01:15.807] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/doorway is being run through DFU (hash b587f912b1f01d58543cbc5aa04fae58240cf81aadc10f72d0934dd705d1da4e), this will cause launch time delays
+[27Jul2025 20:01:15.815] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house3 is being run through DFU (hash cede5f78d3c091ad7f58fb27463bcfe1aaf648c006c206d5a2e7b6899207a004), this will cause launch time delays
+[27Jul2025 20:01:15.818] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/castle2 is being run through DFU (hash c22a69be890298d90427e6b65c635b9e5b24318ae77404c60d2cd7a6fe8d61d0), this will cause launch time delays
+[27Jul2025 20:01:15.833] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound1 is being run through DFU (hash ccb239572ccdbbd2a9173437425a34dddcdf556b5a0d5e8c046f9eed2b4cb466), this will cause launch time delays
+[27Jul2025 20:01:15.848] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/connector2 is being run through DFU (hash 76473eea6ac5fc63d3a6934b73f485aab5bb374bf37edd7e260965dc710d2555), this will cause launch time delays
+[27Jul2025 20:01:15.849] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/connector4 is being run through DFU (hash 03986ad10adb33e8e670acf253fe36c1abb29b6edf880052a0312e0d6e664778), this will cause launch time delays
+[27Jul2025 20:01:15.886] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house2 is being run through DFU (hash 7f0f0b61ae95427889f725d73673f4a40cd5fabdaf00ca57b42d09131986d7d9), this will cause launch time delays
+[27Jul2025 20:01:15.896] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound_castle_small is being run through DFU (hash 4b86819124ee899c249f451f1e6d1ae70abbfd8023b62693591b6b3226fc3556), this will cause launch time delays
+[27Jul2025 20:01:15.905] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound_corner is being run through DFU (hash 4a8d17e475d6e0ac583907f22eb800c13753fc030eccc49cb18fb87831952e1c), this will cause launch time delays
+[27Jul2025 20:01:15.913] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound_tabletwall is being run through DFU (hash 3e3948ecdd6dc4b62591e47419e4afa767a09a4d5c35dfdd4090df03b85fccd9), this will cause launch time delays
+[27Jul2025 20:01:15.926] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound_watchtower is being run through DFU (hash 136bd9aaf578f2f4d40e05662df8161de17a81ffc41cb41183cf3806ed368940), this will cause launch time delays
+[27Jul2025 20:01:16.039] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/castle1 is being run through DFU (hash d6f83c568aa7a1adfe056c6399d08c8baafc9cea9a44f413bef5fc69f330ddf6), this will cause launch time delays
+[27Jul2025 20:01:16.266] [Server thread/DEBUG] [ModernFix/]: Structure mvs:railway is being run through DFU (hash 30249d0182aad0c431c4e04bbc836359a5d4deb67f177b6508b0af81d468e634), this will cause launch time delays
+[27Jul2025 20:01:19.158] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor/large1 is being run through DFU (hash 84c64893ddb649c6ac874e677fc8173adddbfe0d587a6aeb7c9a733d52a76705), this will cause launch time delays
+[27Jul2025 20:01:19.324] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/which_witch_is_which is being run through DFU (hash 352ed1de2095905427addf26a014f6629f45a209be97f2583ea2a28a7ca4a0ca), this will cause launch time delays
+[27Jul2025 20:01:22.663] [Worker-Main-2/DEBUG] [ModernFix/]: Structure irons_spellbooks:mountain_tower is being run through DFU (hash 3595c332eccd57cece5af55cd85bacd63908f41c1a3749c4d8002148a22dcb07), this will cause launch time delays
+[27Jul2025 20:01:22.758] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/jungle_well is being run through DFU (hash df91cc6bb2ef36c54a18ad3165a2447e22a8631368a508a8e443fb6f7df09085), this will cause launch time delays
+[27Jul2025 20:01:22.765] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/small_well is being run through DFU (hash 1d634b4b3bc135b960773200dff899b73d2323cfac1b23089a2bc479bf3d2948), this will cause launch time delays
+[27Jul2025 20:01:22.777] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/snowy_well is being run through DFU (hash d7a565ea69dfb5ac27f790d04f48da59fb59818a9ae72d7f9b4f9d7965a29496), this will cause launch time delays
+[27Jul2025 20:01:22.785] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/birch_well is being run through DFU (hash cf74e1b434f010f6ab879c54a4d8d64b4498ca18851159db380881308bffbad8), this will cause launch time delays
+[27Jul2025 20:01:22.793] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/oak_well is being run through DFU (hash a850a1548279960fb5daf2e413f4701bb4e4e42616e0dfa5a5fa6706e5301707), this will cause launch time delays
+[27Jul2025 20:01:22.801] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/dark_oak_well is being run through DFU (hash dc1177126de57c9873384ccf6f824fa7cc863743d6f5df2043e1cd380686ca92), this will cause launch time delays
+[27Jul2025 20:01:22.808] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/rocky_well is being run through DFU (hash 60e75509d0b6a198711f74bbd9ceca19b6b2f968c0ee9e34b528680d1b7e2c2c), this will cause launch time delays
+[27Jul2025 20:01:22.815] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/desert_well is being run through DFU (hash d39e563ca611de5211860985cdbb0802afff96af7d15aaf60798af2c660aed5d), this will cause launch time delays
+[27Jul2025 20:01:22.823] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/wells/acacia_well is being run through DFU (hash 0316cf0def4b66bb62591b03199d3abae4256d40efa44660335a7b855172848c), this will cause launch time delays
+[27Jul2025 20:01:22.830] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:well/well_upper is being run through DFU (hash 4b663be16656fcae8cf6c1056bef8923e8052b3c25b83b4b57ae4114254b71ad), this will cause launch time delays
+[27Jul2025 20:01:26.356] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[27Jul2025 20:01:40.949] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior2 is being run through DFU (hash 6dedf627f70e92d0c4de628846bbc67f90a7607bd719158f74232f99848480ba), this will cause launch time delays
+[27Jul2025 20:02:05.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 20:02:05.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 20:03:08.202] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[27Jul2025 20:03:38.584] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:03:50.391] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:04:21.759] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:04:45.800] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[27Jul2025 20:06:15.892] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:06:15.893] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:06:20.659] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:07:05.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 20:07:05.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 20:08:30.904] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[27Jul2025 20:08:38.595] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:08:50.392] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:09:22.204] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:09:58.017] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[27Jul2025 20:11:23.591] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:11:23.591] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:11:24.053] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:11:44.496] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[27Jul2025 20:11:44.496] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[27Jul2025 20:12:05.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 20:12:05.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 20:12:52.155] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[27Jul2025 20:13:38.634] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:13:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[27Jul2025 20:13:50.490] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:13:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> morido xd
+[27Jul2025 20:14:00.573] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:14:00.574] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (2029dab5-2eae-4fcd-866a-726038a5b9b7)
+[27Jul2025 20:14:01.718] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[27Jul2025 20:14:10.445] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[27Jul2025 20:14:21.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> taba en un barco y me llegaron todos de golpe xd
+[27Jul2025 20:14:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xddd
+[27Jul2025 20:14:31.068] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[27Jul2025 20:14:33.930] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (5b57158d-4d5f-47f5-a459-f18ea3731375)
+[27Jul2025 20:14:33.931] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[27Jul2025 20:14:33.932] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[27Jul2025 20:14:33.932] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[27Jul2025 20:14:33.932] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9f99a085-a908-41a5-a195-36e5dcae84fb)
+[27Jul2025 20:14:33.932] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 20:14:33.932] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 20:14:49.866] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:mangrove_hut is being run through DFU (hash 5ce8a23b5c8a45deaa32f3715fcb348d47f91fee9de0386d2639da5533659958), this will cause launch time delays
+[27Jul2025 20:15:12.349] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1 is being run through DFU (hash 86e83b5d05e56e152715335430e6c982a099985c4fbedf6ea2026e3320e0ba07), this will cause launch time delays
+[27Jul2025 20:15:12.399] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1 is being run through DFU (hash 4954e761ddbba9d6df0c915d6c3541da217da8a9819305bd0a90c360b3caa7ab), this will cause launch time delays
+[27Jul2025 20:15:12.453] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1 is being run through DFU (hash 57340acae3466fab1da5c24391dacfe191d951da624b740a96f00bf6e6e2cacd), this will cause launch time delays
+[27Jul2025 20:15:12.469] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1 is being run through DFU (hash 0991d1e84c1cf8d57d26063470bdb1a18c51ce82cd603eb3a1a8e002bf48bf6d), this will cause launch time delays
+[27Jul2025 20:15:12.524] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1 is being run through DFU (hash a4d3382475b6f475241c8eb061d4057cdd65add3b1715213a0256974f66a0148), this will cause launch time delays
+[27Jul2025 20:15:12.561] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1 is being run through DFU (hash f6b2f348cf8a41d3525c2c2781ac1da6abcbb5942ccf2bac2833e5e21e623ff0), this will cause launch time delays
+[27Jul2025 20:15:12.626] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1 is being run through DFU (hash 4ddbe58f4300394f2ef8c6f526ed1930c9fe9b32262ad7e9c3e1db3f91689b76), this will cause launch time delays
+[27Jul2025 20:15:12.640] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1 is being run through DFU (hash 0b4ad78f49764faabb927fdcd93787f47474326f070315f8fa584f908ccf403e), this will cause launch time delays
+[27Jul2025 20:15:12.653] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1 is being run through DFU (hash 38013d369c42185e4b750f75c20c819ea012a682408f9b92559c74d907368216), this will cause launch time delays
+[27Jul2025 20:15:12.662] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2 is being run through DFU (hash 6aeb6d407b12f28ad78704a13491ac57da3f91fb2b61d28a9fbc028c3c626c1c), this will cause launch time delays
+[27Jul2025 20:15:12.776] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1 is being run through DFU (hash 2b161666470cdae038cc9215e0866357d25cff7d98b8fe0774ad8fc2d9a1c882), this will cause launch time delays
+[27Jul2025 20:15:12.797] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1 is being run through DFU (hash c659a6b80cb19c0eb5497e00519128fcc05dba111264a25dcf82eeea22f9830d), this will cause launch time delays
+[27Jul2025 20:15:12.829] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1 is being run through DFU (hash aeb17bfd4c4a07e9c5e662aa5151e290524968fed40fc6e1cd401f1ed051d838), this will cause launch time delays
+[27Jul2025 20:15:12.846] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1 is being run through DFU (hash 1853b4124fb2db7552b6b9104b1bb548889481f3a2cdd187b4bc0cb4ccbefbb3), this will cause launch time delays
+[27Jul2025 20:15:12.874] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1 is being run through DFU (hash a331015a4a2e7d95678ed6657633faacd81bb72ac4cd3609cfe761c15ff93b08), this will cause launch time delays
+[27Jul2025 20:15:12.918] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/nilotic/base_plate is being run through DFU (hash 0ec67d34eb2260f18bd7e80e0f09562cfc4bd12bf625923fb49ab2e4ed9a7d35), this will cause launch time delays
+[27Jul2025 20:15:12.943] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1 is being run through DFU (hash 711b48458b021aa92f34b90c94a9175fe01e118a86b7288db33d1012579dd822), this will cause launch time delays
+[27Jul2025 20:15:12.964] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1 is being run through DFU (hash ead480a8b3e80e840aad6ea1f4083e7472c3e5f2bc366118abb0f4381f970c7c), this will cause launch time delays
+[27Jul2025 20:15:13.037] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1 is being run through DFU (hash d23bc6b66e7a50f8eaeb68c7ab81b672ea6c94616c62940d527cb0ef3c44bcd5), this will cause launch time delays
+[27Jul2025 20:15:13.053] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1 is being run through DFU (hash 005119925e1887e9c2c04f781c51502193d36d6dee555df4703e7333056eac58), this will cause launch time delays
+[27Jul2025 20:15:18.598] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 20:15:18.599] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (53dfdc12-2006-4d31-9b07-90c6b3fb9d51)
+[27Jul2025 20:15:18.844] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 20:15:18.844] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 20:15:23.694] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (1c0e0ebd-85b4-4732-b52a-afa5d15067c0)
+[27Jul2025 20:15:42.606] [Netty Epoll Server IO #5/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:16:34.827] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (cf44ddca-fda0-4c57-b09d-837d4e8ebbdb)
+[27Jul2025 20:16:34.827] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (cf44ddca-fda0-4c57-b09d-837d4e8ebbdb)
+[27Jul2025 20:16:34.845] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (cf44ddca-fda0-4c57-b09d-837d4e8ebbdb)
+[27Jul2025 20:16:35.112] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (cf44ddca-fda0-4c57-b09d-837d4e8ebbdb)
+[27Jul2025 20:16:36.599] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:16:36.599] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8dc5deab-d082-49c2-84b1-d657e45fa6a8)
+[27Jul2025 20:16:40.445] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[27Jul2025 20:16:40.446] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[27Jul2025 20:16:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Strong or Careful]
+[27Jul2025 20:16:45.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 suffocated in a wall
+[27Jul2025 20:16:45.948] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daniel_ANT_25 was created at position [x:-851, y:58, z:-553, dim:minecraft:overworld]
+[27Jul2025 20:16:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Your First Grave]
+[27Jul2025 20:16:45.950] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[27Jul2025 20:16:47.527] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Jul2025 20:16:47.709] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[27Jul2025 20:16:47.709] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[27Jul2025 20:16:49.283] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[27Jul2025 20:16:49.314] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[27Jul2025 20:16:51.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> na
+[27Jul2025 20:16:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> xd
+[27Jul2025 20:16:55.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> increible
+[27Jul2025 20:16:58.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Fishy Business]
+[27Jul2025 20:17:05.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 20:17:05.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

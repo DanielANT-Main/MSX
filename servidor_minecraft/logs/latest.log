@@ -1632,3 +1632,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [27Jul2025 19:28:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro hay armor de madera
 [27Jul2025 19:29:00.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Suit Up]
 [27Jul2025 19:31:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Basic Tinkering (Tetra)]
+[27Jul2025 19:37:37.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Hammer III (Iron)]
+[27Jul2025 19:38:27.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Tightly Wrought]
+[27Jul2025 19:43:30.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Knowledge of Death]
+[27Jul2025 19:43:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Ashes 'n Bones]
+[27Jul2025 19:43:58.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [This Must be a Sign!]
+[27Jul2025 19:44:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Not Today, Thank You]
+[27Jul2025 19:52:05.197] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3069ms or 61 ticks
+[27Jul2025 19:55:40.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel_ANT_25 moved wrongly!
+[27Jul2025 19:57:19.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [A Strange Grave Dust]
+[27Jul2025 19:58:04.754] [Server thread/WARN] [tombstone/]: The death event of the player Sebastian_FMD was canceled by another mod
+[27Jul2025 19:58:04.758] [Server thread/INFO] [tombstone/]: The player Sebastian_FMD has successfully been saved
+[27Jul2025 19:58:53.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has reached the goal [Strong or Careful]
+[27Jul2025 19:58:53.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD was slain by Zombie
+[27Jul2025 19:58:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Your First Grave]
+[27Jul2025 19:58:55.705] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Jul2025 19:58:55.900] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[27Jul2025 19:58:55.900] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[27Jul2025 20:13:47.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[27Jul2025 20:13:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> morido xd
+[27Jul2025 20:14:21.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> taba en un barco y me llegaron todos de golpe xd
+[27Jul2025 20:14:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xddd
+[27Jul2025 20:16:40.445] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[27Jul2025 20:16:40.446] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[27Jul2025 20:16:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Strong or Careful]
+[27Jul2025 20:16:45.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 suffocated in a wall
+[27Jul2025 20:16:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Your First Grave]
+[27Jul2025 20:16:45.950] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[27Jul2025 20:16:47.527] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Jul2025 20:16:47.709] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[27Jul2025 20:16:47.709] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[27Jul2025 20:16:51.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> na
+[27Jul2025 20:16:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> xd
+[27Jul2025 20:16:55.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> increible
+[27Jul2025 20:16:58.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebastian_FMD has made the advancement [Fishy Business]
