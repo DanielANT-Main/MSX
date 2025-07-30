@@ -11661,3 +11661,355 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [29Jul2025 23:40:55.373] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
 [29Jul2025 23:40:55.422] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
 [29Jul2025 23:41:03.225] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:41:39.772] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[29Jul2025 23:41:39.772] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Jul2025 23:41:43.977] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[29Jul2025 23:41:43.978] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[29Jul2025 23:41:43.978] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[29Jul2025 23:41:43.978] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[29Jul2025 23:41:56.522] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[29Jul2025 23:41:56.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 23:41:56.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 23:41:56.618] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[29Jul2025 23:41:57.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[29Jul2025 23:43:49.505] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[29Jul2025 23:43:49.505] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[29Jul2025 23:43:49.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[29Jul2025 23:43:49.925] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[29Jul2025 23:43:51.861] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:43:52.022] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:43:52.722] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[29Jul2025 23:44:01.410] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:44:01.423] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:44:24.573] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[29Jul2025 23:44:24.660] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:44:24.810] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Jul2025 23:44:24.823] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[29Jul2025 23:44:25.210] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:44:37.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/statue_ruins
+[29Jul2025 23:45:05.717] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/stilt1 is being run through DFU (hash 524f4ad0fea53c4654f82d78f6f6afce5f221a35a4ab7867422bfa5f9ab7e82e), this will cause launch time delays
+[29Jul2025 23:45:05.955] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road9 is being run through DFU (hash 742ad9715da6f5bdc5037355dc58e12eeb5eb5999a46dff47db34d87e64c0ac1), this will cause launch time delays
+[29Jul2025 23:45:05.973] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/inter4 is being run through DFU (hash 98b7bc8da1ef52a28017f981c7fc6687c9a832fb2366ebad510907cb84056d00), this will cause launch time delays
+[29Jul2025 23:45:05.996] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_alchemist1 is being run through DFU (hash f0c45ddbc4a272a3afa20f599bc5cc14cb9669d164fe541e4cb9cef047631120), this will cause launch time delays
+[29Jul2025 23:45:06.358] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road10 is being run through DFU (hash b6f6a1284ee2fa2023f088db88cfb6bb086af2ff308e14b481daf24df4db9b91), this will cause launch time delays
+[29Jul2025 23:45:06.367] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road2 is being run through DFU (hash 08230e4a40aaeaaadebe8d95f27e402afb94e41b67e648b03f104fd06971594d), this will cause launch time delays
+[29Jul2025 23:45:06.391] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large5 is being run through DFU (hash 8b1da4c4eebcf63a587370deb8379842aabfc60bfedb98d796b51c04d8de6b6b), this will cause launch time delays
+[29Jul2025 23:45:06.432] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large1 is being run through DFU (hash 63f4ae85b2c6e70a05d041dc2b7b1f7e26b185715ae84351845558ebdb9085f5), this will cause launch time delays
+[29Jul2025 23:45:06.469] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small6 is being run through DFU (hash 1b7eae442fad64b10ebd62c4860b20fcd85d82f8857a27501f28fcee938200ce), this will cause launch time delays
+[29Jul2025 23:45:06.493] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large3 is being run through DFU (hash 701a53b6b3775b907a633abda11d68890a019ffd4b82f83a38dd3851049504d3), this will cause launch time delays
+[29Jul2025 23:45:06.522] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large4 is being run through DFU (hash 96b0cf73477d63fe4450c1fab6840077df9fde3d20b033622bd0fa8a15ca8be0), this will cause launch time delays
+[29Jul2025 23:45:06.546] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large2 is being run through DFU (hash cbb6b5af60f549beb687c353e69002514043409b4ada9be952d614a3ba4b572e), this will cause launch time delays
+[29Jul2025 23:45:06.581] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large8 is being run through DFU (hash a6451d2b4e31b57097940c37bcb7e1dc0f46c59919e1a22f772f2f9998a5c8ba), this will cause launch time delays
+[29Jul2025 23:45:06.607] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small1 is being run through DFU (hash 66f951b108e59dd5a5b0379a5c63ecc7c1c01d224932c5914ab7b2dd710a7708), this will cause launch time delays
+[29Jul2025 23:45:06.635] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/garden3 is being run through DFU (hash fde09e9a7f8458693d785ad40fd7a97495369b0d8ef2021ed7f1e6b555bbd6ee), this will cause launch time delays
+[29Jul2025 23:45:06.665] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/garden1 is being run through DFU (hash aa641d2fb631fcc4c495ca6ee3b007605a6d9b46bf31144161dc1dd09af1cdb6), this will cause launch time delays
+[29Jul2025 23:45:06.684] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road11 is being run through DFU (hash 6bc5b5cbfbfa85a40396bb3d45f1057bcbc37a90ebd6626790424a8f28dd1a0f), this will cause launch time delays
+[29Jul2025 23:45:06.688] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road5 is being run through DFU (hash 669c73b09f0252ad9701658cef54c22d070796d59efb65a35c220f6e9f400b7d), this will cause launch time delays
+[29Jul2025 23:45:06.692] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/inter1 is being run through DFU (hash c0dac385bfefe1aff29a23ac6519563c7fa64def0407ced90312d03c32bf5696), this will cause launch time delays
+[29Jul2025 23:45:06.703] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large7 is being run through DFU (hash 1e6640e159dbc9d91f0f550a0b876e2916bae14b408d65e34e54db073acf8253), this will cause launch time delays
+[29Jul2025 23:45:06.721] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small4 is being run through DFU (hash 7f010e831e686382453b7f8fc4766cc50fc7528c93badb36d43cb2e7bd9635b8), this will cause launch time delays
+[29Jul2025 23:45:06.733] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road6 is being run through DFU (hash 7d33233f18e9b904e29c20761043fdf1b9391fad107d731158d9b0815cf838b3), this will cause launch time delays
+[29Jul2025 23:45:06.738] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/inter5 is being run through DFU (hash 78ec5651716cf4080a3226cc45c77cc2e959a5370bd4ec83f4b134f591401b6e), this will cause launch time delays
+[29Jul2025 23:45:06.747] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large6 is being run through DFU (hash 19f7f221314129807cbbfd858447edf55b9a2083dd85f494cf0724f47c0ac127), this will cause launch time delays
+[29Jul2025 23:45:06.754] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/garden2 is being run through DFU (hash d39f5322f37d7fc1ff5d6abb4347cbc2456dda1893c844ed034a8f1697b32613), this will cause launch time delays
+[29Jul2025 23:45:06.765] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small5 is being run through DFU (hash 6fa8406e13535a87bdea9a37c14c2a08d8580519e3b1f6fbd49088da4c7a90d2), this will cause launch time delays
+[29Jul2025 23:45:06.779] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road7 is being run through DFU (hash fa094bb311754ff85b79e4a0daf5507f980d9f2dd154091b38efaf6108848718), this will cause launch time delays
+[29Jul2025 23:45:06.783] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/inter2 is being run through DFU (hash dbd90e9be17148afbb99458cd6a96046034aacc32d6361a12a7d9f0784e6811e), this will cause launch time delays
+[29Jul2025 23:45:06.793] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small3 is being run through DFU (hash cb52127773a55244a6e439d8726e1659715cb2a7ac1aab45e259115347dfc9de), this will cause launch time delays
+[29Jul2025 23:45:06.806] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small2 is being run through DFU (hash 57636a4ae0f90daf4e0f1868f6ee49888d568de71b4a01bb11d6e053a04f6caf), this will cause launch time delays
+[29Jul2025 23:45:06.826] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road4 is being run through DFU (hash 009ce0ce4d71603f10f2a50f79e721e98ff4a13dc29dee3fc53e2444bc6294f3), this will cause launch time delays
+[29Jul2025 23:45:06.838] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/inter6 is being run through DFU (hash b01cb11a48697c9199130e3700bea7676d52a89adcb7cf0ee30c74b403648fb5), this will cause launch time delays
+[29Jul2025 23:45:06.952] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road3 is being run through DFU (hash 552544b575744bcd3a04f32a9e9a8313a4b27a4179675c4452b2a3fd6abc6169), this will cause launch time delays
+[29Jul2025 23:45:06.957] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road8 is being run through DFU (hash 7898de42fa9f98db5b1b3123ffb8ba70cb37e9a597dbe7efe1b9b140363ed632), this will cause launch time delays
+[29Jul2025 23:45:06.961] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/road1 is being run through DFU (hash f13f328d15d39a7fc675c21b75011934a095f8eb03bdd0bc9193210b289e683a), this will cause launch time delays
+[29Jul2025 23:45:07.035] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/inter3 is being run through DFU (hash f9f91aba90f0ea2fcac09e88362a16f99ac8b78e2b687307904128afddf17ac0), this will cause launch time delays
+[29Jul2025 23:45:07.052] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_miner1 is being run through DFU (hash 51eb1dd88ef2e46d016851d648d796300012c830ce8f909e3116ad61162a416b), this will cause launch time delays
+[29Jul2025 23:45:07.124] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_lumberjack1 is being run through DFU (hash f1a46fd488bc202c60f845f7346e0504c839cd3ecc5eb997e7bc7569fa775f36), this will cause launch time delays
+[29Jul2025 23:45:07.131] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_lumberjack2 is being run through DFU (hash 459f2d80d75933aae905e4a42f067f667b627114f1cb30390ac491698e7a098f), this will cause launch time delays
+[29Jul2025 23:45:07.137] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_armored is being run through DFU (hash 9d11d79f2772586dbd23deb56c7273315fac21255abd73a9315d506e44542be9), this will cause launch time delays
+[29Jul2025 23:45:07.142] [Worker-Main-17/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_worker1 is being run through DFU (hash acbf21e5625531a22a3b1c3a78690968c638fbfcd9ad121d0aaee39de9145747), this will cause launch time delays
+[29Jul2025 23:45:12.569] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[29Jul2025 23:45:12.569] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[29Jul2025 23:45:34.477] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:45:47.977] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[29Jul2025 23:45:51.075] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:45:51.272] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:45:51.325] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:45:53.481] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[29Jul2025 23:45:53.482] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[29Jul2025 23:46:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Ice Bucket Challenge]
+[29Jul2025 23:46:53.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 withered away
+[29Jul2025 23:46:53.485] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daniel_ANT_25 was created at position [x:-91, y:32, z:29, dim:minecraft:the_nether]
+[29Jul2025 23:46:56.506] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[29Jul2025 23:46:56.529] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[29Jul2025 23:46:56.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 23:46:56.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 23:46:57.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> xd
+[29Jul2025 23:46:57.248] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Jul2025 23:46:58.675] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[29Jul2025 23:46:58.676] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Jul2025 23:46:59.046] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[29Jul2025 23:48:00.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[29Jul2025 23:48:31.671] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[29Jul2025 23:49:02.915] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[29Jul2025 23:49:02.934] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:49:02.934] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:49:02.952] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[29Jul2025 23:49:03.337] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[29Jul2025 23:49:03.337] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[29Jul2025 23:49:14.179] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Jul2025 23:49:22.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> -97 36 -10
+[29Jul2025 23:49:38.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[29Jul2025 23:49:38.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[29Jul2025 23:50:13.444] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:50:13.445] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Jul2025 23:50:13.445] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:50:14.625] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[29Jul2025 23:50:14.625] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Jul2025 23:50:21.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/9263, l='ServerLevel[world]', x=-856.62, y=74.00, z=-133.70] died, message: 'Mason was slain by Brayze'
+[29Jul2025 23:50:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Knowledge of Death]
+[29Jul2025 23:50:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Neighborhood Brawl]
+[29Jul2025 23:50:25.068] [Server thread/WARN] [tombstone/]: The death event of the player Brayze was canceled by another mod
+[29Jul2025 23:50:25.080] [Server thread/INFO] [tombstone/]: The player Brayze has successfully been saved
+[29Jul2025 23:50:35.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Knowledge raises the soul]
+[29Jul2025 23:50:41.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[29Jul2025 23:50:41.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[29Jul2025 23:50:41.419] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:130,"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[29Jul2025 23:50:41.420] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:130,"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[29Jul2025 23:50:41.420] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[29Jul2025 23:50:41.420] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_axe_left_material":"basic_axe/iron","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[29Jul2025 23:50:41.420] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:27,"double/basic_axe_left_material":"basic_axe/iron","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[29Jul2025 23:50:41.420] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:27,"double/basic_axe_left_material":"basic_axe/iron","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[29Jul2025 23:50:41.421] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[29Jul2025 23:50:41.421] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[29Jul2025 23:50:41.421] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:12,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[29Jul2025 23:50:41.422] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:12,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[29Jul2025 23:50:41.422] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[29Jul2025 23:50:41.423] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:64,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[29Jul2025 23:50:41.423] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:64,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[29Jul2025 23:51:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze was slain by Iron Golem
+[29Jul2025 23:51:25.027] [Server thread/DEBUG] [tombstone/]: A new grave of the player Brayze was created at position [x:-859, y:74, z:-131, dim:minecraft:overworld]
+[29Jul2025 23:51:25.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Your First Grave]
+[29Jul2025 23:51:28.684] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Jul2025 23:51:28.881] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[29Jul2025 23:51:28.881] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[29Jul2025 23:51:30.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[29Jul2025 23:51:34.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> xdxxdxdxd
+[29Jul2025 23:51:45.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[29Jul2025 23:51:56.517] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[29Jul2025 23:51:56.517] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[29Jul2025 23:51:56.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 23:51:56.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 23:51:56.651] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3121ms or 62 ticks
+[29Jul2025 23:52:14.428] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[29Jul2025 23:52:14.428] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0})
+[29Jul2025 23:52:14.481] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:52:14.481] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:52:15.774] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:52:15.826] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:52:15.827] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:52:25.475] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:52:36.726] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:52:36.727] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:52:36.778] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Jul2025 23:52:38.231] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Jul2025 23:52:39.625] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[29Jul2025 23:52:39.625] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[29Jul2025 23:52:39.625] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[29Jul2025 23:52:39.626] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[29Jul2025 23:52:41.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[29Jul2025 23:52:47.327] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:53:09.924] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[29Jul2025 23:53:39.483] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[29Jul2025 23:54:02.960] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:54:12.478] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:54:13.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[29Jul2025 23:54:13.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Jul2025 23:54:14.132] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[29Jul2025 23:54:14.263] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[29Jul2025 23:54:15.878] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[29Jul2025 23:54:22.973] [Server thread/WARN] [tombstone/]: The death event of the player Daniel_ANT_25 was canceled by another mod
+[29Jul2025 23:54:22.975] [Server thread/INFO] [tombstone/]: The player Daniel_ANT_25 has successfully been saved
+[29Jul2025 23:54:59.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 withered away
+[29Jul2025 23:54:59.373] [Server thread/DEBUG] [tombstone/]: A new grave of the player Daniel_ANT_25 was created at position [x:-775, y:-19, z:-99, dim:minecraft:overworld]
+[29Jul2025 23:55:00.596] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Jul2025 23:55:00.758] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[29Jul2025 23:55:00.759] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[29Jul2025 23:55:49.351] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[29Jul2025 23:55:49.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:frigate_medium_start
+[29Jul2025 23:55:49.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_cac
+[29Jul2025 23:55:49.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_axe
+[29Jul2025 23:55:49.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_bow
+[29Jul2025 23:55:49.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:frigate_medium_end
+[29Jul2025 23:55:49.511] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[29Jul2025 23:55:49.567] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[29Jul2025 23:55:49.590] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[29Jul2025 23:55:49.607] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[29Jul2025 23:55:49.689] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[29Jul2025 23:55:57.695] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[29Jul2025 23:55:57.697] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[29Jul2025 23:55:57.795] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[29Jul2025 23:56:39.475] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:56:39.476] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Jul2025 23:56:39.476] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:56:39.476] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[29Jul2025 23:56:39.477] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[29Jul2025 23:56:56.509] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[29Jul2025 23:56:56.509] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[29Jul2025 23:56:56.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 23:56:56.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 23:57:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Hot Stuff]
+[29Jul2025 23:57:26.569] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[29Jul2025 23:57:28.871] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:57:29.294] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:57:32.423] [Server thread/WARN] [tombstone/]: The death event of the player Brayze was canceled by another mod
+[29Jul2025 23:57:32.424] [Server thread/INFO] [tombstone/]: The player Brayze has successfully been saved
+[29Jul2025 23:57:48.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze burned to death
+[29Jul2025 23:57:48.125] [Server thread/DEBUG] [tombstone/]: A new grave of the player Brayze was created at position [x:-871, y:76, z:-80, dim:minecraft:overworld]
+[29Jul2025 23:57:49.689] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Jul2025 23:57:49.876] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[29Jul2025 23:57:49.876] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[29Jul2025 23:57:49.923] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[29Jul2025 23:57:50.126] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:57:50.127] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:57:50.323] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:57:50.324] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:57:56.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XD?
+[29Jul2025 23:58:03.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Isn't It Iron Pick]
+[29Jul2025 23:58:07.523] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:59:03.010] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[29Jul2025 23:59:08.625] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Jul2025 23:59:08.626] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[29Jul2025 23:59:10.926] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[29Jul2025 23:59:11.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[29Jul2025 23:59:11.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[29Jul2025 23:59:11.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[29Jul2025 23:59:11.259] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[29Jul2025 23:59:12.622] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[29Jul2025 23:59:48.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> BRAYAN GO DORMIR?
+[30Jul2025 00:00:03.924] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[30Jul2025 00:00:04.039] [Worker-Main-18/DEBUG] [ModernFix/]: Structure mvs:log_pile/acacia_log_pile is being run through DFU (hash 33272428be3e886e020f3e0d734928213dc0c6c70d6f152e2efa8fba83cf3074), this will cause launch time delays
+[30Jul2025 00:00:40.273] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:01:03.622] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[30Jul2025 00:01:39.375] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[30Jul2025 00:01:56.360] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:01:56.372] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[30Jul2025 00:01:56.515] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[30Jul2025 00:01:56.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:01:56.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:02:06.872] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[30Jul2025 00:02:29.421] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:02:50.022] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:03:17.024] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[30Jul2025 00:03:17.024] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:03:17.025] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[30Jul2025 00:03:38.320] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:03:38.321] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:03:41.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Sweet Dreams]
+[30Jul2025 00:03:54.421] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:03:54.422] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:04:06.810] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:04:32.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Suit Up]
+[30Jul2025 00:04:42.071] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[30Jul2025 00:04:42.072] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[30Jul2025 00:04:42.072] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[30Jul2025 00:04:42.072] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[30Jul2025 00:04:42.073] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:05:01.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9265, l='ServerLevel[world]', x=-860.16, y=69.00, z=-157.54] died, message: 'Leatherworker was slain by Zombie'
+[30Jul2025 00:05:13.629] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:05:18.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Ashes 'n Bones]
+[30Jul2025 00:05:48.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/9243, l='ServerLevel[world]', x=-871.75, y=68.00, z=-111.57] died, message: 'Cartographer was slain by Zombie'
+[30Jul2025 00:05:57.017] [Server thread/WARN] [tombstone/]: The death event of the player Brayze was canceled by another mod
+[30Jul2025 00:05:57.021] [Server thread/INFO] [tombstone/]: The player Brayze has successfully been saved
+[30Jul2025 00:06:04.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> esa perra mamada q
+[30Jul2025 00:06:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze was slain by Betrayed Guzzler
+[30Jul2025 00:06:11.208] [Server thread/DEBUG] [tombstone/]: A new grave of the player Brayze was created at position [x:-887, y:73, z:-58, dim:minecraft:overworld]
+[30Jul2025 00:06:12.496] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jul2025 00:06:12.703] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:06:12.703] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:06:15.417] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[30Jul2025 00:06:15.417] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[30Jul2025 00:06:15.417] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:138,"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[30Jul2025 00:06:15.417] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:138,"shield/basic_grip_material":"basic_grip/iron","shield/grip":"shield/basic_grip","shield/plate":"shield/tower","shield/plate:shield/studs/iron":0,"shield/plate:shield/trim/iron":0,"shield/tower_material":"tower/oak"})
+[30Jul2025 00:06:15.417] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_axe_left_material":"basic_axe/iron","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:15.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:28,"double/basic_axe_left_material":"basic_axe/iron","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:15.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:28,"double/basic_axe_left_material":"basic_axe/iron","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:15.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[30Jul2025 00:06:15.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:31,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[30Jul2025 00:06:15.418] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:31,"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[30Jul2025 00:06:15.419] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[30Jul2025 00:06:15.419] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[30Jul2025 00:06:15.419] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:0,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[30Jul2025 00:06:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> waos
+[30Jul2025 00:06:19.967] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_axe_left_material":"basic_axe/stone","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:19.967] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:43,"double/basic_axe_left_material":"basic_axe/stone","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:19.967] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:43,"double/basic_axe_left_material":"basic_axe/stone","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:19.967] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:21,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[30Jul2025 00:06:19.968] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:21,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[30Jul2025 00:06:20.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> que fue?
+[30Jul2025 00:06:22.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has reached the goal [Here They Come]
+[30Jul2025 00:06:22.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xd
+[30Jul2025 00:06:29.267] [Server thread/WARN] [tombstone/]: The death event of the player Brayze was canceled by another mod
+[30Jul2025 00:06:29.271] [Server thread/INFO] [tombstone/]: The player Brayze has successfully been saved
+[30Jul2025 00:06:29.667] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:49,"double/basic_axe_left_material":"basic_axe/stone","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:29.667] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:49,"double/basic_axe_left_material":"basic_axe/stone","double/basic_handle_material":"basic_handle/stick","double/butt_right_material":"butt/stone","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right"})
+[30Jul2025 00:06:35.922] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:06:48.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has reached the goal [Chain Death]
+[30Jul2025 00:06:48.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze was slain by Betrayed Guzzler
+[30Jul2025 00:06:48.760] [Server thread/DEBUG] [tombstone/]: A new grave of the player Brayze was created at position [x:-897, y:72, z:-47, dim:minecraft:overworld]
+[30Jul2025 00:06:50.020] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Jul2025 00:06:50.227] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:06:50.227] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:06:54.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XDD
+[30Jul2025 00:06:56.371] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:06:56.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:06:56.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:07:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> te ayudo donde estas?
+[30Jul2025 00:07:09.768] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[30Jul2025 00:07:21.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> aqui esta
+[30Jul2025 00:07:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> salieron de mi portal?
+[30Jul2025 00:07:30.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> no
+[30Jul2025 00:07:38.174] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:07:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> taba explorando
+[30Jul2025 00:07:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> te dropeo mi espada?
+[30Jul2025 00:07:47.220] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[30Jul2025 00:07:50.119] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:07:53.270] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[30Jul2025 00:07:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> donde es aqui?
+[30Jul2025 00:08:22.318] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[30Jul2025 00:08:22.319] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[30Jul2025 00:08:22.322] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[30Jul2025 00:08:23.826] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[30Jul2025 00:08:23.827] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[30Jul2025 00:08:23.867] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3415ms or 68 ticks
+[30Jul2025 00:08:37.297] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[30Jul2025 00:08:37.297] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[30Jul2025 00:08:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> a
+[30Jul2025 00:08:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Acquire Hardware]
+[30Jul2025 00:08:53.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> me meti al portal y sali en la cueva de nuevo xd
+[30Jul2025 00:09:38.470] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:09:38.520] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:09:54.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [We Need to Go Deeper]
+[30Jul2025 00:09:54.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze has made the advancement [Incendium]
+[30Jul2025 00:09:55.038] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[30Jul2025 00:09:55.041] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[30Jul2025 00:09:55.142] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[30Jul2025 00:09:55.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:09:55.678] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:10:05.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> vro plus ultra
+[30Jul2025 00:10:08.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> referencias xd
+[30Jul2025 00:10:47.750] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:10:47.751] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:10:48.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:10:48.375] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:10:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> me llevo
+[30Jul2025 00:10:58.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> a una mina
+[30Jul2025 00:11:01.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> mi portal
+[30Jul2025 00:11:02.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> xddd
+[30Jul2025 00:11:09.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> te lo rompo xd
+[30Jul2025 00:11:09.095] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:11:09.095] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:11:13.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> huh
+[30Jul2025 00:11:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pa que salgas en tu portal
+[30Jul2025 00:11:17.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:11:17.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
