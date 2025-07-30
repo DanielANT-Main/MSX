@@ -12013,3 +12013,139 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [30Jul2025 00:11:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> pa que salgas en tu portal
 [30Jul2025 00:11:17.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
 [30Jul2025 00:11:17.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:11:27.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> se fusiono mi portal con el suyo xd
+[30Jul2025 00:11:45.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> metete
+[30Jul2025 00:11:56.509] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[30Jul2025 00:11:56.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:11:56.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:12:01.010] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:12:15.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> XDDDD
+[30Jul2025 00:12:27.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> como
+[30Jul2025 00:12:34.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> shit clic
+[30Jul2025 00:12:52.100] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[30Jul2025 00:12:52.101] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:12:52.116] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:12:52.117] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:12:58.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> enfermo
+[30Jul2025 00:13:11.867] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:13:11.868] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[30Jul2025 00:13:11.915] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:13:32.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:13:32.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:13:37.958] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:13:41.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[30Jul2025 00:13:41.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[30Jul2025 00:13:51.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> ya
+[30Jul2025 00:13:57.649] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[30Jul2025 00:13:57.649] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[30Jul2025 00:13:58.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> voy a cenar
+[30Jul2025 00:14:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> ya vengo
+[30Jul2025 00:14:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebastian_FMD> waos
+[30Jul2025 00:14:11.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ok
+[30Jul2025 00:14:38.515] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:14:38.522] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:15:13.185] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[30Jul2025 00:15:36.260] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[30Jul2025 00:16:07.306] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[30Jul2025 00:16:07.306] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:16:07.306] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:16:56.511] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[30Jul2025 00:16:56.512] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[30Jul2025 00:16:56.512] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[30Jul2025 00:16:56.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:16:56.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:17:28.060] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:17:57.534] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[30Jul2025 00:17:57.534] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[30Jul2025 00:17:57.647] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[30Jul2025 00:18:05.201] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[30Jul2025 00:18:06.401] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[30Jul2025 00:18:06.401] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[30Jul2025 00:18:06.941] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[30Jul2025 00:18:14.810] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:18:14.817] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:18:14.817] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:18:17.218] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[30Jul2025 00:18:17.219] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[30Jul2025 00:18:17.220] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[30Jul2025 00:18:17.220] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[30Jul2025 00:18:17.220] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[30Jul2025 00:18:17.220] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[30Jul2025 00:18:46.417] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:18:46.417] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:18:50.669] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:18:50.718] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:18:50.775] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:19:54.174] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[30Jul2025 00:19:54.186] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[30Jul2025 00:19:54.186] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[30Jul2025 00:19:54.773] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Brayze]
+[30Jul2025 00:19:54.773] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Brayze]
+[30Jul2025 00:19:58.628] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Sebastian_FMD]
+[30Jul2025 00:19:58.628] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Sebastian_FMD]
+[30Jul2025 00:20:00.409] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[30Jul2025 00:20:00.409] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[30Jul2025 00:20:00.933] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[30Jul2025 00:20:00.933] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[30Jul2025 00:20:09.023] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[30Jul2025 00:20:09.023] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[30Jul2025 00:20:12.474] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:20:19.173] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:20:20.979] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[30Jul2025 00:20:20.979] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[30Jul2025 00:20:23.517] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:20:45.267] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:21:48.710] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:21:56.501] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[30Jul2025 00:21:56.505] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[30Jul2025 00:21:56.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:21:56.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:22:44.760] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:22:56.110] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:22:56.117] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[30Jul2025 00:23:21.822] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[30Jul2025 00:23:51.518] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:23:51.518] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:24:01.166] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:24:01.217] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:24:18.102] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
+[30Jul2025 00:24:41.768] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[30Jul2025 00:24:41.769] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[30Jul2025 00:24:41.769] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[30Jul2025 00:24:41.770] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[30Jul2025 00:24:41.770] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[30Jul2025 00:24:41.770] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[30Jul2025 00:25:27.116] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[30Jul2025 00:25:53.973] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:26:19.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Hot Stuff]
+[30Jul2025 00:26:56.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 00:26:56.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 00:27:06.360] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:27:34.665] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:27:34.665] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:27:34.921] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (4ca76edf-599b-4c60-bb6d-1ba7e0a38a2a)
+[30Jul2025 00:27:48.910] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:28:02.915] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[30Jul2025 00:28:02.915] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:28:16.366] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[30Jul2025 00:28:24.168] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[30Jul2025 00:28:29.475] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[30Jul2025 00:29:50.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> oe q
+[30Jul2025 00:29:51.415] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[30Jul2025 00:29:57.819] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:29:57.820] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[30Jul2025 00:30:01.119] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:30:01.120] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:30:01.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> uy ya
+[30Jul2025 00:30:06.524] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[30Jul2025 00:30:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> me dejaron en el oscurito
+[30Jul2025 00:30:26.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> el goblin lo va a sufrir
+[30Jul2025 00:30:36.269] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (40285790-64a2-4124-8514-9d88f8851c1a)
+[30Jul2025 00:30:39.474] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (e906a0b8-7c70-4be9-930b-3f95b26a69bf)
+[30Jul2025 00:30:39.474] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (647ad1e8-2697-424f-872f-199217ce0d24)
+[30Jul2025 00:30:39.474] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (60d3bd56-7a4a-47d0-bfaa-e09af473381a)
+[30Jul2025 00:30:39.474] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (32a75b1c-9e70-4cfa-aaf9-25d8a7be1091)
+[30Jul2025 00:30:39.474] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8602c5b2-0415-43ac-bd36-eecbc1166490)
+[30Jul2025 00:30:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> me sacan?
+[30Jul2025 00:30:48.273] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[30Jul2025 00:31:22.496] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (10dddc9b-d243-46c8-b128-c51605569677)
