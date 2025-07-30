@@ -93,3 +93,7 @@
 [30Jul2025 00:30:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> me dejaron en el oscurito
 [30Jul2025 00:30:26.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> el goblin lo va a sufrir
 [30Jul2025 00:30:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brayze> me sacan?
+[30Jul2025 00:33:30.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brayze lost connection: Disconnected
+[30Jul2025 00:33:30.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brayze left the game
+[30Jul2025 00:33:30.366] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b73521d4-9d34-3f83-904c-b791da63170d was unloaded
+[30Jul2025 00:36:56.618] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3082ms or 61 ticks
