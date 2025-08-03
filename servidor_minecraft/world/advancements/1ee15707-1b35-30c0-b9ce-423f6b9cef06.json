@@ -1745,9 +1745,10 @@
   },
   "tetra:upgrades/sword_improvement_hone": {
     "criteria": {
-      "tempered": "2025-07-27 19:37:47 +0000"
+      "tempered": "2025-07-27 19:37:47 +0000",
+      "tempered+": "2025-08-03 01:47:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "tetra:upgrades/sword_integrity": {
     "criteria": {
@@ -3543,81 +3544,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
+      "has_gold_backpack": "2025-08-03 00:55:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-08-03 01:09:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-08-03 01:12:06 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
+      "bred": "2025-08-03 01:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-08-03 01:26:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:44:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+      "bastion": "2025-08-03 01:27:49 +0000"
     },
     "done": true
   },
@@ -3627,15 +3586,9 @@
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll_warforge": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "find": "2025-08-03 01:29:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-03 01:40:36 +0000"
+      "loot_bastion_other": "2025-08-03 01:29:22 +0000"
     },
     "done": true
   },
@@ -3645,15 +3598,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_blackstone": "2025-08-03 01:36:16 +0000"
+      "has_golden_boots": "2025-08-03 01:29:25 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-08-03 01:29:30 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2025-08-03 01:29:30 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/deviled_egg": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 01:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-03 01:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-03 01:30:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-08-03 01:31:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-08-03 01:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/polished_blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-08-03 01:36:16 +0000"
     },
     "done": true
   },
@@ -3675,39 +3754,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-08-03 01:30:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-03 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-08-03 01:12:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-08-03 01:26:10 +0000"
     },
     "done": true
   },
@@ -3723,39 +3772,9 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/deviled_egg": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-03 01:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-08-03 01:31:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-08-03 01:26:10 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-08-03 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-08-03 01:29:22 +0000"
     },
     "done": true
   },
@@ -3765,93 +3784,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-08-03 01:39:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/smoked_ham": {
-    "criteria": {
-      "has_ham": "2025-08-03 01:31:07 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/blackstone_bricks": {
-    "criteria": {
-      "has_copper_block": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-03 01:36:16 +0000"
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/prismarine": {
-    "criteria": {
-      "has_item": "2025-08-03 01:40:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-08-03 01:29:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-08-03 00:55:01 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/polished_blackstone_bricks": {
-    "criteria": {
-      "has_copper_block": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_wood": "2025-08-03 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-03 01:40:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-03 01:40:36 +0000"
     },
     "done": true
   },
@@ -3867,12 +3808,6 @@
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll": {
-    "criteria": {
-      "find": "2025-08-03 01:29:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-03 01:36:16 +0000"
@@ -3882,30 +3817,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-08-03 01:36:16 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-08-03 01:09:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-08-03 01:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-03 01:33:32 +0000"
     },
     "done": true
   },
@@ -3921,21 +3832,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_glowstone_dust": "2025-08-03 01:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-08-03 01:27:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-03 01:33:32 +0000"
+      "has_blackstone": "2025-08-03 01:36:16 +0000"
     },
     "done": true
   },
@@ -3945,9 +3844,118 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_blackstone": "2025-08-03 01:36:16 +0000"
+      "has_glowstone_dust": "2025-08-03 01:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-03 01:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-03 01:40:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-08-03 01:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-03 01:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-03 01:40:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 02:02:09 +0000"
+    },
+    "done": false
+  },
+  "tetra:upgrades/hammer_4": {
+    "criteria": {
+      "head_left": "2025-08-03 01:47:32 +0000",
+      "head_right": "2025-08-03 01:47:38 +0000"
     },
     "done": true
   },
