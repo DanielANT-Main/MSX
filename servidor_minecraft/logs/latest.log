@@ -1578,3 +1578,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [06Aug2025 00:20:12.899] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [06Aug2025 00:20:12.910] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7264ms or 145 ticks
 [06Aug2025 00:20:12.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5418ms or 108 ticks behind
+[06Aug2025 00:28:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [What a Deal!]
