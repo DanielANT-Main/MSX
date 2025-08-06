@@ -10590,3 +10590,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [06Aug2025 01:08:14.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
 [06Aug2025 01:08:18.079] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
 [06Aug2025 01:08:18.079] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (deab53ca-79ca-40fc-9d26-2d0b2a95c70d)
+[06Aug2025 01:09:25.624] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[06Aug2025 01:09:25.624] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[06Aug2025 01:09:25.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 01:09:25.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 01:10:13.249] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[06Aug2025 01:11:04.100] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[06Aug2025 01:11:17.752] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[06Aug2025 01:11:33.847] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[06Aug2025 01:11:54.404] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1132fcda-e2a4-4552-b1ed-39a38d118659)
+[06Aug2025 01:12:28.200] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[06Aug2025 01:12:28.201] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[06Aug2025 01:12:28.203] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:120,SkillBonuses:[{amount:0.25f,operation:1,type:"skilltree:durability"},{skill_bonus:{amount:5.0d,attribute:"minecraft:generic.attack_damage",id:"69f4db98-7890-4b07-b211-29ff84ce24c9",name:"Merged",operation:0,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[06Aug2025 01:12:28.203] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:120,SkillBonuses:[{amount:0.25f,operation:1,type:"skilltree:durability"},{skill_bonus:{amount:5.0d,attribute:"minecraft:generic.attack_damage",id:"69f4db98-7890-4b07-b211-29ff84ce24c9",name:"Merged",operation:0,player_condition:{type:"skilltree:none"},player_multiplier:{type:"skilltree:none"},type:"skilltree:attribute"},type:"skilltree:skill_bonus"}],"sword/basic_blade_material":"basic_blade/stalwart_dungeons_tungsten","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stalwart_dungeons_tungsten","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stalwart_dungeons_tungsten","sword/pommel":"sword/decorative_pommel"})
+[06Aug2025 01:12:28.203] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (deab53ca-79ca-40fc-9d26-2d0b2a95c70d)
+[06Aug2025 01:12:28.204] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[06Aug2025 01:12:28.204] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[06Aug2025 01:13:14.149] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
+[06Aug2025 01:13:43.809] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[06Aug2025 01:14:25.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 01:14:25.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 01:14:58.052] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[06Aug2025 01:14:58.052] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[06Aug2025 01:15:13.297] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0acb796d-a14c-4722-9459-9c67b5e31052)
+[06Aug2025 01:16:36.250] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[06Aug2025 01:16:39.821] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[06Aug2025 01:16:39.821] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[06Aug2025 01:16:39.821] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (181cb9d9-a650-4582-a88e-5fd922884f0e)
+[06Aug2025 01:16:39.821] [Netty Epoll Server IO #2/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (deab53ca-79ca-40fc-9d26-2d0b2a95c70d)
+[06Aug2025 01:16:54.448] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1132fcda-e2a4-4552-b1ed-39a38d118659)
+[06Aug2025 01:17:11.847] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[06Aug2025 01:17:13.448] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (0c54d7a1-72f0-45c3-8ede-2d6c209b1f29)
+[06Aug2025 01:17:13.598] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (deab53ca-79ca-40fc-9d26-2d0b2a95c70d)
+[06Aug2025 01:18:14.152] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (20d25a34-e536-4256-a13c-f1773be9449d)
