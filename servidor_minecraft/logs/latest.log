@@ -1590,3 +1590,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [06Aug2025 01:23:01.380] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [06Aug2025 01:36:26.550] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
 [06Aug2025 01:36:26.550] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[06Aug2025 01:42:43.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=80, z=-55} BlockPos{x=-736, y=78, z=-54}
+[06Aug2025 01:42:43.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=80, z=-55} BlockPos{x=-736, y=78, z=-54}
+[06Aug2025 01:42:43.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=80, z=-55} BlockPos{x=-736, y=78, z=-54}
+[06Aug2025 01:42:43.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=80, z=-55} BlockPos{x=-736, y=78, z=-54}
