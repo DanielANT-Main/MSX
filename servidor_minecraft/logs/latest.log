@@ -1579,3 +1579,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [06Aug2025 00:20:12.910] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7264ms or 145 ticks
 [06Aug2025 00:20:12.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5418ms or 108 ticks behind
 [06Aug2025 00:28:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [What a Deal!]
+[06Aug2025 00:42:57.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Howling Blades]
+[06Aug2025 00:42:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Crops of the Wild]
+[06Aug2025 00:44:25.759] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3033ms or 60 ticks
+[06Aug2025 01:00:47.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/6080, l='ServerLevel[world]', x=-884.50, y=69.00, z=-179.70] died, message: 'Mason was slain by Zombie'
+[06Aug2025 01:01:21.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/5967, l='ServerLevel[world]', x=-866.10, y=71.95, z=-129.23] died, message: 'Mason was slain by Zombie'
+[06Aug2025 01:03:37.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [Discreet Search]
