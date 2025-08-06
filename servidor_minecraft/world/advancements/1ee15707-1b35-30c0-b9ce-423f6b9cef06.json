@@ -3892,87 +3892,51 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
     "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-04 00:00:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-03 23:04:12 +0000"
+      "has_any_ingredient": "2025-08-03 19:47:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
     "criteria": {
-      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
+      "has_hoglin_loin": "2025-08-03 19:47:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-08-03 19:47:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-08-03 19:47:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 19:47:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-08-03 19:47:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nether_burger": {
+    "criteria": {
+      "has_hoglin_loin": "2025-08-03 19:47:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-08-03 19:47:55 +0000"
     },
     "done": true
   },
@@ -3982,37 +3946,55 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
-      "has_chicken": "2025-08-03 23:56:55 +0000"
+      "has_shroomlight": "2025-08-03 20:04:05 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+  "supplementaries:recipes/stone_lamp": {
     "criteria": {
-      "has_upgrade_base": "2025-08-03 22:54:32 +0000"
+      "has_shroomlight": "2025-08-03 20:04:05 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_nugget": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
+      "has_warped_fungus": "2025-08-03 20:04:05 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
     "criteria": {
-      "has_any_ingredient": "2025-08-03 19:47:55 +0000"
+      "has_any_ingredient": "2025-08-03 20:04:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+  "mynethersdelight:recipes/cooking/strider_stew": {
     "criteria": {
-      "has_purple_dye": "2025-08-03 22:46:12 +0000"
+      "has_any_ingredient": "2025-08-03 20:04:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-03 20:04:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-03 20:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-03 20:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-08-03 20:06:15 +0000"
     },
@@ -4024,21 +4006,141 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-03 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-03 20:14:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-03 20:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-03 20:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-03 20:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-03 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-03 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-03 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-03 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-08-03 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-03 20:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-03 20:24:05 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-08-03 21:26:44 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/combat/silent_quiver": {
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_feather": "2025-08-03 23:59:55 +0000"
+      "has_raw_silver": "2025-08-03 21:26:44 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
-      "has_any_ingredient": "2025-08-03 23:56:55 +0000"
+      "has_raw_silver": "2025-08-03 21:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-03 21:43:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-08-03 22:06:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-08-03 22:06:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-08-03 22:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-08-03 22:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-03 22:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-08-03 22:46:12 +0000"
     },
     "done": true
   },
@@ -4048,27 +4150,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-08-03 20:12:57 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/combustion_table": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-08-03 23:38:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-08-03 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-03 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-03 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-03 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2025-08-03 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-03 22:51:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-08-03 22:54:32 +0000"
     },
     "done": true
   },
@@ -4084,93 +4204,15 @@
     },
     "done": true
   },
-  "tetra:spelunking/geode_open": {
-    "criteria": {
-      "consume_geode": "2025-08-03 23:14:36 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-03 20:04:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-08-03 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-08-03 20:06:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-03 20:20:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-08-03 20:24:05 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
-    "criteria": {
-      "has_hoglin_loin": "2025-08-03 19:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-08-03 20:24:05 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/nether_bricks": {
-    "criteria": {
-      "has_copper_block": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-08-03 20:14:36 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-08-03 20:24:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-08-03 23:59:55 +0000"
     },
     "done": true
   },
@@ -4186,51 +4228,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-08-03 20:24:05 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/stonecutting/nether_bricks_cabinet": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
-    "criteria": {
-      "hoglin_loin": "2025-08-03 19:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-03 21:43:02 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2025-08-03 20:24:05 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:ash_barrens": "2025-08-03 22:06:36 +0000"
     },
     "done": true
   },
@@ -4246,33 +4252,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-08-03 23:56:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-08-03 22:45:22 +0000"
     },
     "done": true
   },
@@ -4282,75 +4264,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/tools/spectre_flare": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:ash_barrens": "2025-08-03 22:06:36 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/stonecutting/red_nether_bricks_cabinet": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
-    "criteria": {
-      "has_hoglin_loin": "2025-08-03 19:47:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/root": {
-    "criteria": {
-      "requirement": "2025-08-03 22:06:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-03 20:04:05 +0000"
-    },
-    "done": true
-  },
-  "galosphere:adventure/silver_ingot": {
-    "criteria": {
-      "silver_ingot": "2025-08-03 23:05:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-08-03 20:04:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-08-03 20:20:42 +0000"
     },
     "done": true
   },
@@ -4360,33 +4276,9 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-03 19:47:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-03 20:04:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-03 23:38:23 +0000"
     },
     "done": true
   },
@@ -4396,21 +4288,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-08-03 23:56:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/redstone/silver_balance": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
     },
     "done": true
   },
@@ -4420,39 +4300,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-08-03 21:26:44 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
     },
     "done": true
   },
@@ -4468,45 +4324,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-08-03 20:06:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-03 23:38:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-03 23:04:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-03 23:04:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
     },
     "done": true
   },
@@ -4516,33 +4336,9 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
-    "criteria": {
-      "hoglin_loin": "2025-08-03 19:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-08-03 22:44:37 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-08-03 20:24:05 +0000"
     },
     "done": true
   },
@@ -4564,117 +4360,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-03 22:46:12 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/nether_burger": {
-    "criteria": {
-      "has_hoglin_loin": "2025-08-03 19:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-08-03 20:24:05 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
-    "criteria": {
-      "hoglin_loin": "2025-08-03 19:47:55 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/silver_lattice": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-03 22:46:12 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-03 20:14:38 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/strider_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-03 20:04:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-08-03 22:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-03 22:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-08-03 20:20:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-03 20:04:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
-    "criteria": {
-      "forge:dyes/purple": "2025-08-03 22:46:12 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/traveler_necklace": {
-    "criteria": {
-      "has_feather": "2025-08-03 23:59:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-08-03 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
     },
     "done": true
   },
@@ -4702,9 +4396,243 @@
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_raw_silver": "2025-08-03 21:26:44 +0000"
+      "has_smooth_stone": "2025-08-03 23:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-03 23:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-03 23:04:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2025-08-03 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-03 23:05:26 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode_open": {
+    "criteria": {
+      "consume_geode": "2025-08-03 23:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-08-03 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-03 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-03 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-03 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-03 23:38:23 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/nether_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/stonecutting/nether_bricks_cabinet": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/stonecutting/red_nether_bricks_cabinet": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-03 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-03 23:56:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 23:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-03 23:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-03 23:56:55 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-08-03 23:59:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-03 23:59:55 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-08-03 23:59:55 +0000"
     },
     "done": true
   },
