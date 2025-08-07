@@ -1577,3 +1577,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Aug2025 19:06:10.972] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
 [07Aug2025 19:06:10.980] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7172ms or 143 ticks
 [07Aug2025 19:06:10.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5370ms or 107 ticks behind
+[07Aug2025 19:34:11.420] [Server thread/INFO] [Supplementaries/]: Searching for structure ResourceKey[minecraft:worldgen/structure / minecraft:ruined_portal_swamp] from pos BlockPos{x=-827, y=76, z=-129}
+[07Aug2025 19:34:13.797] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5380ms or 107 ticks
+[07Aug2025 19:34:13.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
