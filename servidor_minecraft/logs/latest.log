@@ -1729,3 +1729,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Aug2025 03:16:04.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
 [12Aug2025 03:16:04.548] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
 [12Aug2025 03:19:50.510] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3106ms or 62 ticks
+[12Aug2025 03:38:08.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Aug2025 03:38:08.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Aug2025 03:43:23.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Enchanter]
