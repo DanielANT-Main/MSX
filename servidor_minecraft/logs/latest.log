@@ -1636,3 +1636,90 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Aug2025 02:26:43.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> paso foto wasap
 [12Aug2025 02:31:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Cutting a New One]
 [12Aug2025 02:32:40.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has made the advancement [Acquire Hardware]
+[12Aug2025 02:38:03.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ME ACABN DE MINAR
+[12Aug2025 02:38:11.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> QUE CRJS PASA XDDDD
+[12Aug2025 02:38:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> ven vro
+[12Aug2025 02:38:21.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> toy en el nether
+[12Aug2025 02:38:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> COMPO LE hago para ir
+[12Aug2025 02:38:35.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> haz un camino de piedra
+[12Aug2025 02:38:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> en la aldea del principio hay un portal de nether
+[12Aug2025 02:39:02.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> voy
+[12Aug2025 02:40:06.687] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3091ms or 61 ticks
+[12Aug2025 02:40:06.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 02:40:06.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 02:40:24.710] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[12Aug2025 02:40:24.711] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[12Aug2025 02:40:33.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[12Aug2025 02:40:40.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA fell from a high place
+[12Aug2025 02:40:42.710] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Aug2025 02:40:43.179] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 02:40:43.179] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 02:42:13.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[12Aug2025 02:42:13.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[12Aug2025 02:42:13.555] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[12Aug2025 02:42:13.600] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 02:43:31.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1FANT4SMA[/100.97.39.17:63150] logged in with entity id 15175 at (-879.8631207069799, 77.0, 62.824275412566266)
+[12Aug2025 02:43:31.377] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 1FANT4SMA
+[12Aug2025 02:43:31.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA joined the game
+[12Aug2025 02:43:31.387] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: 1FANT4SMA
+[12Aug2025 02:43:31.558] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] 1FANT4SMA: protocol version: 2.0
+[12Aug2025 02:43:31.566] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was loaded
+[12Aug2025 02:43:31.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 02:43:31.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 02:44:32.698] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[12Aug2025 02:44:32.707] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[12Aug2025 02:44:43.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Enderman
+[12Aug2025 02:44:44.567] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Aug2025 02:44:44.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 02:44:44.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 02:46:37.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/11471, l='ServerLevel[world]', x=119.50, y=53.25, z=565.25] died: Piglin Knight was shot by Daniel_ANT_25
+[12Aug2025 02:47:26.757] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 02:47:26.758] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 02:47:57.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA has reached the goal [Easy Opening]
+[12Aug2025 02:48:21.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has reached the goal [In the Hall of the Piglin King]
+[12Aug2025 02:48:30.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/11469, l='ServerLevel[world]', x=115.01, y=63.00, z=597.27] died: Piglin Knight was slain by Daniel_ANT_25
+[12Aug2025 02:49:01.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[12Aug2025 02:49:01.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[12Aug2025 02:49:01.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[12Aug2025 02:49:01.077] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[12Aug2025 02:50:42.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/11668, l='ServerLevel[world]', x=112.87, y=58.00, z=643.49] died: Piglin Paratrooper was slain by Daniel_ANT_25
+[12Aug2025 02:52:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> 2 piglins alados con espada de netherite xd
+[12Aug2025 02:53:05.765] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[12Aug2025 02:53:05.767] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[12Aug2025 02:53:15.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA fell from a high place
+[12Aug2025 02:53:16.793] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Aug2025 02:53:17.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 02:53:17.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 02:54:24.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> me dices donde estan las coords del portal
+[12Aug2025 02:54:28.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> xq me perdi
+[12Aug2025 02:55:28.455] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 02:55:28.455] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 02:55:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> no se poner coodenadas
+[12Aug2025 02:55:54.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> xd
+[12Aug2025 02:56:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> f3
+[12Aug2025 02:56:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> la parte que dice xyz
+[12Aug2025 02:57:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> no me aparece nada
+[12Aug2025 03:00:40.129] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 03:00:40.129] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 03:00:56.296] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[12Aug2025 03:00:56.306] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[12Aug2025 03:01:06.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Spider
+[12Aug2025 03:01:08.209] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Aug2025 03:01:08.357] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 03:01:08.357] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 03:03:18.444] [Server thread/WARN] [tombstone/]: The death event of the player 1FANT4SMA was canceled by another mod
+[12Aug2025 03:03:18.454] [Server thread/INFO] [tombstone/]: The player 1FANT4SMA has successfully been saved
+[12Aug2025 03:03:24.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA was slain by Betrayed Guzzler
+[12Aug2025 03:03:25.707] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Aug2025 03:03:25.869] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [1FANT4SMA]
+[12Aug2025 03:03:25.869] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [1FANT4SMA]
+[12Aug2025 03:04:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel_ANT_25 has made the advancement [Radioactive]
+[12Aug2025 03:06:32.077] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Aug2025 03:06:32.077] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Aug2025 03:06:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> regrese a la aldea xd
+[12Aug2025 03:12:13.676] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Daniel_ANT_25]
+[12Aug2025 03:12:13.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Daniel_ANT_25]
+[12Aug2025 03:14:01.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33090, l='ServerLevel[world]', x=-142.26, y=-20.00, z=62.26] died: Toxic Slime was killed
+[12Aug2025 03:14:01.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33091, l='ServerLevel[world]', x=-182.18, y=-20.00, z=82.33] died: Toxic Slime was killed
+[12Aug2025 03:14:02.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33105, l='ServerLevel[world]', x=-180.55, y=-20.00, z=86.99] died: Toxic Slime was killed
+[12Aug2025 03:14:02.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33106, l='ServerLevel[world]', x=-162.03, y=-20.00, z=100.26] died: Toxic Slime was killed
