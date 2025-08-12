@@ -1723,3 +1723,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [12Aug2025 03:14:01.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33091, l='ServerLevel[world]', x=-182.18, y=-20.00, z=82.33] died: Toxic Slime was killed
 [12Aug2025 03:14:02.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33105, l='ServerLevel[world]', x=-180.55, y=-20.00, z=86.99] died: Toxic Slime was killed
 [12Aug2025 03:14:02.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33106, l='ServerLevel[world]', x=-162.03, y=-20.00, z=100.26] died: Toxic Slime was killed
+[12Aug2025 03:15:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1FANT4SMA> ya tengo que cenar bye bro
+[12Aug2025 03:16:02.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel_ANT_25> chao
+[12Aug2025 03:16:04.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1FANT4SMA lost connection: Disconnected
+[12Aug2025 03:16:04.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1FANT4SMA left the game
+[12Aug2025 03:16:04.548] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9ce338ae-fd82-3fe3-86f4-52f20617ece6 was unloaded
+[12Aug2025 03:19:50.510] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3106ms or 62 ticks
